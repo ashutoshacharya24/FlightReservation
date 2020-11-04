@@ -13,3 +13,7 @@ if you want to add more flights ,  you should go for 'post'
 ![Screenshot (92)](https://user-images.githubusercontent.com/59805898/98104935-2bf41200-1ebd-11eb-8c5b-22e06f1fafa2.png)
 
 ![Screenshot (93)](https://user-images.githubusercontent.com/59805898/98105303-c5bbbf00-1ebd-11eb-88b2-5a9e5dd77a58.png)
+
+to add more passenger 
+
+![Screenshot (94)](https://user-images.githubusercontent.com/59805898/98105379-eab03200-1ebd-11eb-95a1-a9dc13429809.png)
