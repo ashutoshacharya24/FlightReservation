@@ -17,3 +17,7 @@ if you want to add more flights ,  you should go for 'post'
 to add more passenger 
 
 ![Screenshot (94)](https://user-images.githubusercontent.com/59805898/98105379-eab03200-1ebd-11eb-95a1-a9dc13429809.png)
+
+the below page shows the Reservation list...
+
+![Screenshot (95)](https://user-images.githubusercontent.com/59805898/98105806-732ed280-1ebe-11eb-83b1-ac1d5a2ec097.png)
