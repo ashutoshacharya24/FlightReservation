@@ -5,7 +5,7 @@
 Install using ``pip``...
 
 pip install djangorestframework
-Add 'rest_framework' to your INSTALLED_APPS setting.
+Add 'rest_framework' to your ``INSTALLED_APPS setting``.
 
 ``INSTALLED_APPS = [
     ...
