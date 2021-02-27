@@ -11,7 +11,7 @@ def find_flights(request):
     flights = Flight.objects.filter(departureCity=request.data['departureCity'],arrivalCity= request.data['arriavalCity'])
     serializer = FlightSerializer(flights,many=True)
     return Response(serializer.data)
-
+#  this is view method
 @api_view(['POST'])
 def save_reservation(request):
     flight = Flight.objects.get(id=request.data['flightid'])
